@@ -10,21 +10,13 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sirandresitog?color=blue&logo=twitter&logoColor=white&style=for-the-badge">
 </a>
 
-<a href="https://www.linkedin.com/in/andres-valencia-8b792b103/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
+
 </div>
 
 <p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 
 </p>
 
-![ GitHub status](https://github-readme-stats.vercel.app/api?username=sirandresitog&show_icons=true&theme=merko)
