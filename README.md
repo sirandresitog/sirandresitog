@@ -1,5 +1,4 @@
-# 👋 Hello World, I'm Andres Valencia
-
+# 👋 Hello World, I'm Jaime Alfonso Rodríguez Altamirano
 - 🧑🏻‍💻 Currently I am studying to be a frontend developer
 - 🌱 I want to become a full stack developer
 - 💻 Favorit programming languages: JavaScript, Python, SQL, Java
