@@ -1,5 +1,5 @@
 # 👋 Hello World, I'm Andrés 
-- 🧑🏻‍💻 Currently I am studying to be a frontend developer
+- 🧑🏻‍💻 Currently I am studying most languaje
 - 🌱 I want to become a full stack developer
 - 💻 Favorit programming languages: JavaScript, Python, SQL, Java
 - 📫 How to reach me: sirandresitog@gmail.com
@@ -19,5 +19,5 @@
 
 
 </p>
-
+## Number Of Visitors 
 ![Visitor Count](https://profile-counter.glitch.me/sirandresitog/count.svg)
